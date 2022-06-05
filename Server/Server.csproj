@@ -48,11 +48,5 @@
   <ItemGroup>
     <None Include="Web.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\IServer\IServer.csproj">
-      <Project>{fd173e7f-5340-4316-a6df-4c30d80f3969}</Project>
-      <Name>IServer</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

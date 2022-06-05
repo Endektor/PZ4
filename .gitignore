@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+ClientOld2/
+ClientOld/
+PZ4Old/
+IServerOld/

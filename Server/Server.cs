@@ -2,7 +2,7 @@
 
 namespace Server
 {
-    public class clsServer : MarshalByRefObject, IServer.IServer
+    public class clsServer : MarshalByRefObject
     {
         public DateTime getServerTime()
         {
